@@ -1,0 +1,11 @@
+If asked:
+
+“What challenges did you face?”
+
+Say:
+
+“LangChain recently modularized into multiple packages like langchain-community and langchain-openai, so I resolved dependency issues and updated imports accordingly.”
+
+Add this immediately:
+
+Built an AI-powered Data Analyst Assistant using LLM APIs with a Streamlit interface, enabling natural language querying and contextual responses.
